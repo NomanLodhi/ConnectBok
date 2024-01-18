@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ConnectBok/static/css/main.dc4d6ff2.css",
+    "main.js": "/ConnectBok/static/js/main.8170451a.js",
+    "static/media/Post-6.jpg": "/ConnectBok/static/media/Post-6.67096061e2d46e28c435.jpg",
+    "static/media/Post-3.jpg": "/ConnectBok/static/media/Post-3.c40b526d5ccc2b23cd03.jpg",
+    "static/media/Post-4.jpg": "/ConnectBok/static/media/Post-4.1bad272b98c58ec7fafc.jpg",
+    "static/media/Post-5.jpg": "/ConnectBok/static/media/Post-5.0fd5434fa4182eccc7c3.jpg",
+    "static/media/Ad-2.jpg": "/ConnectBok/static/media/Ad-2.fd4602cd6294606e6cc5.jpg",
+    "static/media/Post-1.jpg": "/ConnectBok/static/media/Post-1.7e98ac8b0cb7a1fd6a2e.jpg",
+    "static/media/profile-pic.png": "/ConnectBok/static/media/profile-pic.c7c5ad71718281b51421.png",
+    "static/media/friend-6.png": "/ConnectBok/static/media/friend-6.25af1e3a65c7d88bf7e5.png",
+    "static/media/friend-5.png": "/ConnectBok/static/media/friend-5.74f3fcdeee98b1d2ed60.png",
+    "static/media/Post-2.jpg": "/ConnectBok/static/media/Post-2.7f92e603758d668e49a8.jpg",
+    "static/media/Ad-1.jpg": "/ConnectBok/static/media/Ad-1.03c0708f481de71cd220.jpg",
+    "static/media/friend-3.png": "/ConnectBok/static/media/friend-3.ab45eb1d42b1faaf3d12.png",
+    "static/media/friend-2.png": "/ConnectBok/static/media/friend-2.5faf09a7795d28bf5a2b.png",
+    "static/media/friend-4.png": "/ConnectBok/static/media/friend-4.073e541502ab5823ee9d.png",
+    "static/media/friend-1.png": "/ConnectBok/static/media/friend-1.49e335dae4803b37bd93.png",
+    "index.html": "/ConnectBok/index.html",
+    "main.dc4d6ff2.css.map": "/ConnectBok/static/css/main.dc4d6ff2.css.map",
+    "main.8170451a.js.map": "/ConnectBok/static/js/main.8170451a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8170451a.js"
+  ]
+}
