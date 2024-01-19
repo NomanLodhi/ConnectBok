@@ -3,7 +3,15 @@ import React from 'react'
 import Postcards from './Postcards'
 export default function Maincontent(props) {
   return (
-    <Box flex={5} p={3}>
+    <Box flex={5} sx={{
+      p:{
+xs:0,
+sm:0,
+md:0,
+lg:3,
+xl:3,
+      }
+    }} mx={0}>
       <Postcards post={props.post1} profile={props.profile1} myprofile={props.myprofile} name="Daud Karim"/>
       <Postcards post={props.post2} profile={props.profile2} myprofile={props.myprofile} name="Muhammad Saleh"/>
       <Postcards post={props.post3} profile={props.profile3} myprofile={props.myprofile} name="Abdul Rahman"/>

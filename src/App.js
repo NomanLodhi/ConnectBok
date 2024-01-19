@@ -1,5 +1,4 @@
 import { Box, Stack } from '@mui/material';
-import './App.css';
 import React from 'react'
 import Sidebar from './Components/Sidebar';
 import Maincontent from './Components/Maincontent';
@@ -28,7 +27,9 @@ export default function App() {
       },
       mx:{
         lg:0,
-        xl:'auto'
+        xl:'auto',
+        sm:0,
+        md:0
       }
      }}>
 <Navbar profile={ProfilePic}/>      

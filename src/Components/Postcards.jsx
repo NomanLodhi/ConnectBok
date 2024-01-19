@@ -5,7 +5,9 @@ export default function Postcards(props) {
   const CardFooter=styled(Box)({
     padding:'20px 5px',
     display:'flex',
-   width:'100%'
+   width:'100%',
+   alignItems:'center',
+   justifyContent:'center'
   })
   const ModalComment=styled(Modal)({
     display:'flex',
@@ -33,7 +35,7 @@ setopen(false)
   }
   return (
   <>
-  <Card>
+  <Card sx={{my:5}}>
     <CardHeader avatar={
       <Avatar src={props.profile}>
       </Avatar>
@@ -51,14 +53,14 @@ setopen(false)
     image={props.post}
     />
     <CardActions >
-      <CardFooter>
+      <CardFooter whiteSpace={20}>
         {/* <Stack direction={'row'} alignItems={'center'}>
       <ThumbUpAlt/>
       <Typography color={'secondary'} px={2} component={'span'} variant='h6'>Like</Typography>
         </Stack> */}
-      <Button  startIcon={<ThumbUpAlt/>} sx={{width:'30%',padding:'10px',fontSize:'20px'}}>Like</Button>
-      <Button  startIcon={<Comment/>} color='secondary' sx={{width:'30%',padding:'10px',fontSize:'20px'}} onClick={ModalOpen}>Comment</Button>
-      <Button  startIcon={<Share/>} color='warning' sx={{width:'30%',padding:'10px',fontSize:'20px'}}>Share</Button>
+      <Button  startIcon={<ThumbUpAlt/>}  sx={{width:'34%',padding:'10px',fontSize:'20px',}}>Like</Button>
+      <Button  startIcon={<Comment/>}  color='secondary' sx={{width:'34%',padding:'10px',fontSize:'20px',}} onClick={ModalOpen}>Comment</Button>
+      <Button  startIcon={<Share/>}  color='warning' sx={{width:'34%',padding:'10px',fontSize:'20px',}}>Share</Button>
       </CardFooter>
     </CardActions>
   </Card>
