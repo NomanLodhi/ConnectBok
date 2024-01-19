@@ -1,7 +1,6 @@
 {
   "files": {
-    "main.css": "/ConnectBok/static/css/main.dc4d6ff2.css",
-    "main.js": "/ConnectBok/static/js/main.8170451a.js",
+    "main.js": "/ConnectBok/static/js/main.6dd483fa.js",
     "static/media/Post-6.jpg": "/ConnectBok/static/media/Post-6.67096061e2d46e28c435.jpg",
     "static/media/Post-3.jpg": "/ConnectBok/static/media/Post-3.c40b526d5ccc2b23cd03.jpg",
     "static/media/Post-4.jpg": "/ConnectBok/static/media/Post-4.1bad272b98c58ec7fafc.jpg",
@@ -18,11 +17,9 @@
     "static/media/friend-4.png": "/ConnectBok/static/media/friend-4.073e541502ab5823ee9d.png",
     "static/media/friend-1.png": "/ConnectBok/static/media/friend-1.49e335dae4803b37bd93.png",
     "index.html": "/ConnectBok/index.html",
-    "main.dc4d6ff2.css.map": "/ConnectBok/static/css/main.dc4d6ff2.css.map",
-    "main.8170451a.js.map": "/ConnectBok/static/js/main.8170451a.js.map"
+    "main.6dd483fa.js.map": "/ConnectBok/static/js/main.6dd483fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.8170451a.js"
+    "static/js/main.6dd483fa.js"
   ]
 }
